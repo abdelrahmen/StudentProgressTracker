@@ -68,7 +68,7 @@ As part of the task, AI tools (ChatGPT-4, Claude, Gemini, copilot, and more) wer
 ## Getting Started (Setup Instructions)
 To get the project up and running locally:
 -   **Clone the Repository** 
-git clone https://github.com/your-username/StudentProgressTracker.git
+git clone https://github.com/abdelrahmen/StudentProgressTracker.git
 cd StudentProgressTracker.
 -   **Apply Database Migrations** 
 cd StudentProgressTracker.Infrastructure
